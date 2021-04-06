@@ -79,7 +79,8 @@ ___ACM SIGGRAPH Conference on Motion in Games, 2015___
 [Loïc Barthe]: https://www.irit.fr/~Loic.Barthe
 [Nicolas Mellado]: https://www.irit.fr/recherches/STORM/MelladoNicolas
 
-[THESIS]: ./lejemble2020.pdf
+<!-- [THESIS]: ./lejemble2020.pdf -->
+[THESIS]: https://tel.archives-ouvertes.fr/tel-03170824
 
 [EG20GitHub]: https://github.com/ThibaultLejemble/Plane-Detection-Point-Cloud
 [EG20]: https://hal.archives-ouvertes.fr/hal-02490721/document
