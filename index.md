@@ -2,9 +2,7 @@ About
 -----
 
 __Thibault Lejemble__  
-Doctor - Engineer  
-[IRIT] Lab  
-[STORM] team  
+R&D engineer at [EasyMile]
 
 E-mail : `thibault.le@live.fr`
 
@@ -76,6 +74,7 @@ ___ACM SIGGRAPH Conference on Motion in Games, 2015___
 [GitHubHome]: https://github.com/ThibaultLejemble
 [Linked In]: https://www.linkedin.com/in/tljmbl
 
+[EasyMile]: https://easymile.com
 [IRIT]: https://www.irit.fr
 [STORM]: https://www.irit.fr/STORM/site
 [Loïc Barthe]: https://www.irit.fr/~Loic.Barthe
