@@ -19,6 +19,11 @@ New: I defended my thesis on 09/12/2020, you can download it **[here][THESIS]**!
 Publications
 ------------
 
+* __Stable and efficient differential estimators on oriented point clouds__  
+T. Lejemble, D. Coeurjolly, L Barthe, N Mellado  
+___Computer Graphics Forum (SGP), 2021___  
+[PDF] [GitHub]
+
 
 * __Multi-scale Point Cloud Analysis__  
 T. Lejemble  
