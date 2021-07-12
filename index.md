@@ -15,55 +15,55 @@ Publications
 ------------
 
 * __Stable and efficient differential estimators on oriented point clouds__  
-T. Lejemble, D. Coeurjolly, L Barthe, N Mellado  
+T Lejemble, D Coeurjolly, L Barthe, N Mellado  
 ___Computer Graphics Forum (SGP), 2021___  
 [[PDF]][SGP21] [[GitHub]][SGP21GitHub]
 
 
 * __Multi-scale Point Cloud Analysis__  
-T. Lejemble  
+T Lejemble  
 ___Thesis, 2020___  
 [[PDF]][THESIS]
 
 
-* __Persistence Analysis of Multi-scale Planar Structure Graph in Point Clouds__  
-T. Lejemble, C. Mura, L. Barthe, N. Mellado  
+* __Persistence analysis of multi-scale planar structure graph in point clouds__  
+T Lejemble, C Mura, L Barthe, N Mellado  
 ___Computer Graphics Forum (Eurographics), 2020___  
 [[PDF]][EG20]  [[GitHub]][EG20GitHub]  (approved by the [GRSI][GRSILink])
 
 
-* __SLAM-aided Forest Plot Mapping Combining Terrestrial and Mobile Laser Scanning__  
-J. Shao, W. Zhang, N. Mellado, N. Wang, S. Jin, S. Cai, L. Luo, T. Lejemble, G. Yan  
+* __SLAM-aided forest plot mapping combining terrestrial and mobile laser scanning__  
+J Shao, W Zhang, N Mellado, N Wang, S Jin, S Cai, L Luo, T Lejemble, G Yan  
 ___ISPRS Journal of Photogrammetry and Remote Sensing, 2020___  
 [[LINK]][ISPRS20]
 
 
-* __SHREC’19 track: Feature Curve Extraction on Triangle Meshes__  
-E. Moscoso Thompson, G. Arvanitis, K. Moustakas, N. Hoang-Xuan, E.R. Nguyen, M. Tran, T. Lejemble, L. Barthe, N. Mellado, C. Romanengo, S. Biasotti, B. Falcidieno  
+* __SHREC’19 track: Feature curve extraction on triangle meshes__  
+E Moscoso Thompson, G Arvanitis, K Moustakas, N Hoang-Xuan, ER Nguyen, M Tran, T Lejemble, L Barthe, N Mellado, C Romanengo, S Biasotti, B Falcidieno  
 ___Eurographics Workshop on 3D Object Retrieval, 2019___  
 [[PDF]][SHREC19]
 
 
-* __Multi-scale Point Cloud Analysis__  
-T. Lejemble, C. Mura, L. Barthe, N. Mellado  
+* __Multi-scale point cloud analysis__  
+T Lejemble, C Mura, L Barthe, N Mellado  
 ___Eurographics Poster & Doctoral Consortium, 2019___   
 [[PDF]][EG19]
 
 
-* __Multi-scale Planar Segments Extraction from Point Clouds__  
-T. Lejemble, C. Mura, L. Barthe, N. Mellado  
+* __Multi-scale planar segments extraction from point clouds__  
+T Lejemble, C Mura, L Barthe, N Mellado  
 ___Journées Françaises d'Informatique Graphique, 2018___  
 [[PDF]][AFIG18]
 
 
 * __SHREC’18 track: Recognition of geometric patterns over 3D models__  
-S. Biasotti, E. Moscoso Thompson, L. Barthe, S. Berretti, A. Giachetti, T. Lejemble, N. Mellado, K. Moustakas, I. Manolas, D. Dimou, C. Tortorici, S. Velasco-Forero N. Werghi, M. Polig, G. Sorrentino, S. Hermon  
+S Biasotti, E Moscoso Thompson, L Barthe, S Berretti, A Giachetti, T Lejemble, N Mellado, K Moustakas, I Manolas, D Dimou, C Tortorici, S Velasco-Forero N Werghi, M Polig, G Sorrentino, S Hermon  
 ___Eurographics Workshop on 3D Object Retrieval, 2018___  
 [[PDF]][SHREC18]
 
 
 * __Interactive procedural simulation of paper tearing with sound__  
-T. Lejemble, A. Fondevilla, N. Durin, T. Blanc-Beyne, C. Schreck, P-L. Manteaux, P. G. Kry, M-P. Cani  
+T Lejemble, A Fondevilla, N Durin, T Blanc-Beyne, C Schreck, P-L Manteaux, P G Kry, M-P Cani  
 ___ACM SIGGRAPH Conference on Motion in Games, 2015___  
 [[PDF]][MIG2015]  
 
