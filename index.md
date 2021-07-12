@@ -12,9 +12,6 @@ E-mail : `thibault.le@live.fr`
 - [GitHub][GitHubHome]  
 - [Linked In]  
 
-New: The code for plane detection in point clouds (**[paper][EG20]**) is released **[here][EG20GitHub]**! It is approved by the **[GRSI][GRSILink]**.
-
-New: I defended my thesis on 09/12/2020, you can download it **[here][THESIS]**!
 
 Publications
 ------------
