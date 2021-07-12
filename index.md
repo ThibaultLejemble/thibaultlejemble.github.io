@@ -17,7 +17,7 @@ Publications
 * __Stable and efficient differential estimators on oriented point clouds__  
 T. Lejemble, D. Coeurjolly, L Barthe, N Mellado  
 ___Computer Graphics Forum (SGP), 2021___  
-[PDF] [GitHub]
+[[PDF]][SGP21] [[GitHub]][SHP21GitHub]
 
 
 * __Multi-scale Point Cloud Analysis__  
@@ -29,7 +29,7 @@ ___Thesis, 2020___
 * __Persistence Analysis of Multi-scale Planar Structure Graph in Point Clouds__  
 T. Lejemble, C. Mura, L. Barthe, N. Mellado  
 ___Computer Graphics Forum (Eurographics), 2020___  
-[[PDF]][EG20]  [[GitHub]][EG20GitHub]  [[GRSI]][GRSILink]
+[[PDF]][EG20]  [[GitHub]][EG20GitHub]  (approved by the [GRSI][GRSILink])
 
 
 * __SLAM-aided Forest Plot Mapping Combining Terrestrial and Mobile Laser Scanning__  
@@ -83,6 +83,8 @@ ___ACM SIGGRAPH Conference on Motion in Games, 2015___
 <!-- [THESIS]: ./lejemble2020.pdf -->
 [THESIS]: https://tel.archives-ouvertes.fr/tel-03170824
 
+[SGP21GitHub]:https://github.com/STORM-IRIT/algebraic-shape-operator
+[SGP21]: https://hal.archives-ouvertes.fr/hal-03272493/document
 [EG20GitHub]: https://github.com/ThibaultLejemble/Plane-Detection-Point-Cloud
 [EG20]: https://hal.archives-ouvertes.fr/hal-02490721/document
 [ISPRS20]: https://doi.org/10.1016/j.isprsjprs.2020.03.008
