@@ -14,6 +14,12 @@ E-mail : `thibault.le@live.fr`
 Publications
 ------------
 
+* __PCEDNet: a neural network for fast and efficient edge detection in 3D point clouds__  
+C-E Himeur, T Lejemble, T Pellegrini, M Paulin, L Barthe, N Mellado  
+___arXiv, 2021___  
+[[PDF]][PCEDNet]
+
+
 * __Stable and efficient differential estimators on oriented point clouds__  
 T Lejemble, D Coeurjolly, L Barthe, N Mellado  
 ___Computer Graphics Forum (SGP), 2021___  
@@ -83,6 +89,7 @@ ___ACM SIGGRAPH Conference on Motion in Games, 2015___
 <!-- [THESIS]: ./lejemble2020.pdf -->
 [THESIS]: https://tel.archives-ouvertes.fr/tel-03170824
 
+[PCEDNet]: https://arxiv.org/pdf/2011.01630.pdf
 [SGP21GitHub]:https://github.com/STORM-IRIT/algebraic-shape-operator
 [SGP21]: https://hal.archives-ouvertes.fr/hal-03272493/document
 [EG20GitHub]: https://github.com/ThibaultLejemble/Plane-Detection-Point-Cloud
