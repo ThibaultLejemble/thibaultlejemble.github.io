@@ -17,7 +17,7 @@ Publications
 * __Stable and efficient differential estimators on oriented point clouds__  
 T. Lejemble, D. Coeurjolly, L Barthe, N Mellado  
 ___Computer Graphics Forum (SGP), 2021___  
-[[PDF]][SGP21] [[GitHub]][SHP21GitHub]
+[[PDF]][SGP21] [[GitHub]][SGP21GitHub]
 
 
 * __Multi-scale Point Cloud Analysis__  
