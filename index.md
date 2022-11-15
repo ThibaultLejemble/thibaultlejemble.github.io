@@ -2,13 +2,18 @@ About
 -----
 
 __Thibault Lejemble__  
-R&D Engineer at [EasyMile]
+Associate Professor at [EPITA]/[LRE]
 
-E-mail : `tlejemble@gmail.com`
+E-mail : `thibault.lejemble@epita.com`
 
 - [Google Scholar]  
 - [GitHub][GitHubHome]  
 - [LinkedIn]  
+
+Research
+--------
+
+My research focuses on the analysis of 3D acquired data and especially 3D point clouds. I develop efficient algorithms to process unstructured and large point clouds acquired by 3D scans using Lidar sensors and photogrammetry. I am working on pattern recognition, curvature estimation and reconstruction. My work also includes efficient implementation of algorihms on GPUs using open-source framework.
 
 Publications
 ------------
@@ -79,6 +84,8 @@ ___ACM SIGGRAPH Conference on Motion in Games, 2015___
 [GitHubHome]: https://github.com/ThibaultLejemble
 [LinkedIn]: https://www.linkedin.com/in/tljmbl
 
+[LRE]: https://www.lre.epita.fr
+[EPITA]: https://www.epita.fr
 [EasyMile]: https://easymile.com
 [IRIT]: https://www.irit.fr
 [STORM]: https://www.irit.fr/STORM/site
