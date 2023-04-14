@@ -4,7 +4,7 @@ About
 __Thibault Lejemble__  
 Associate Professor at [EPITA]/[LRE]
 
-E-mail : `thibault.lejemble@epita.com`
+E-mail : `thibault.lejemble@epita.fr`
 
 - [Google Scholar]  
 - [GitHub][GitHubHome]  
