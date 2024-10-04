@@ -16,11 +16,14 @@
   authors: "T Lejemble"
   journal: "PhD Thesis"
   year: 2020
+  pdf: lejemble2021thesis.pdf
 - title: "Persistence Analysis of Multi-scale Planar Structure Graph in Point Clouds"
   authors: "T Lejemble, C Mura, L Barthe, N Mellado"
   journal: "Computer Graphics Forum"
   conf: "Eurographics"
   year: 2020
+  pdf: lejemble2020persistence.pdf
+  github: https://github.com/STORM-IRIT/Plane-Detection-Point-Cloud
 - title: "SLAM-aided forest plot mapping combining terrestrial and mobile laser scanning"
   authors: "J Shao, W Zhang, N Mellado, N Wang, S Jin, S Cai, L Luo, T Lejemble, ..."
   journal: "ISPRS Journal of Photogrammetry and Remote Sensing"
