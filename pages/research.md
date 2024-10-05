@@ -11,11 +11,11 @@ permalink: /research/
 <div style="text-align: justify">
 Curvatures of curves and surfaces are local properties that are fundamental in geometry processing.
 They correspond to local features that characterize small neighborhoods of points on a surface.
-Their uses in computer vision are numerous: keypoints extraction, sharp features detection, shape matching, smoothing, segmentation...
-Differential properties of smooth surfaces are well understood in theory since Gauss work in 1827.
-The challenge is now to estimate these quantities on point-sampled surfaces using accurate and precise estimators.
-Algorithms must be efficiency in time and memory, and must be adapted to GPU implementations.
-Theoretical proofs of convergence under asymptotic settings should certify that these estimators tends toward the correct differential invariant and that they remain robust in the presence of noise.
+Their applications in computer vision are numerous, including keypoint extraction, sharp feature detection, shape matching, smoothing, and segmentation.
+The differential properties of smooth surfaces have been well understood in theory since Gauss's work in 1827.
+The current challenge is to estimate these quantities on point-sampled surfaces using accurate and precise estimators.
+Algorithms must be efficient in terms of time and memory and adapted to GPU implementations.
+Theoretical proofs of convergence under asymptotic settings should certify that these estimators tend toward the correct differential invariants and that they remain robust in the presence of noise.
 </div>
 
 - [Stable and efficient differential estimators on oriented point clouds](/articles/lejemble2021stable.pdf), Lejemble at al., 2021 ([Github](https://github.com/STORM-IRIT/algebraic-shape-operator))
@@ -24,14 +24,13 @@ Theoretical proofs of convergence under asymptotic settings should certify that 
 ### Segmentation and classification
 
 <div style="text-align: justify">
-Segmentation aims at dividing a 3D point cloud in different distinctive regions.
-Geometric criterion are usually used to define those regions. 
-Planes and feature curves are two examples of geometric patterns that can be extracted thanks to a segmentation algorithm.
-Classification adds another level of abstraction where semantic plays an essential role.
-Specific objects such as furnitures in a building, pedestrian on the street, and electric poles in a landscape can be detected in a 3D scan.
-Classification is more and more tackled by deep learning methods since a large quantity of scanned data is now available. 
-However, labeling 3D points is costly, and real scanned data show a wide variety of shape which cannot be well captured by mid-size neural networks.
-Finally, there is a strong need of machine learning approaches that do not require hundred of hours of training on costly hardware. 
+Segmentation aims to divide a 3D point cloud into distinct regions.
+Geometric criteria are usually used to define these regions. Planes and feature curves are examples of geometric patterns that can be extracted using a segmentation algorithm.
+Classification adds another level of abstraction, where semantics play an essential role. 
+Specific objects, such as furniture in a building, pedestrians on the street, and electric poles in a landscape, can be detected in a 3D scan.
+Classification is increasingly addressed by deep learning methods, as a large amount of scanned data is now available. 
+However, labeling 3D points is costly, and real scanned data exhibit a wide variety of shapes that cannot be well captured by mid-size neural networks. 
+Finally, there is a strong need for machine learning approaches that do not require hundreds of hours of training on expensive hardware.
 </div>
 
 - [PCEDNet: A lightweight neural network for fast and interactive edge detection in 3D point clouds](/articles/himeur2021pcednet.pdf), Himeur et al., 2021 ([Website](https://storm-irit.github.io/pcednet-supp))
@@ -42,9 +41,9 @@ Finally, there is a strong need of machine learning approaches that do not requi
 ## SAT Solvers on GPU
 
 <div style="text-align: justify">
-SAT problems are fundamental in computer science and many solvers exist now.
-However, due to the ever growing size of SAT formulas, efficient solvers are still actively researched in different directions: sequential algorithms, parallel algorithms on multi-core processors, and parallel algorithms in a cloud of computers.
-Another type of hardware seems to not be really used in this domain yet: massively parallel architectures such as GPUs.
-The challenge is to design a new kind of solver that laverage the computational power of GPUs to accelerate SAT problem solving. 
+SAT problems are fundamental in computer science, and many solvers exist today.
+However, due to the ever-growing size of SAT formulas, efficient solvers are still actively being researched in various directions: sequential algorithms, parallel algorithms on multi-core processors, and parallel algorithms in cloud computing environments.
+Another type of hardware that has not yet been widely utilized in this domain is massively parallel architectures, such as GPUs.
+The challenge is to design a new kind of solver that leverages the computational power of GPUs to accelerate SAT problem solving.
 </div>
 
