@@ -18,6 +18,11 @@ permalink: /about/
 | 2023 | Invited researcher in the [TITANE team](https://team.inria.fr/titane/team) at [INRIA](https://www.inria.fr) and [3IA Côte d'Azur](https://3ia.univ-cotedazur.eu) |
 | 2022 - now | Member of the [UNREAL project](https://www.irit.fr/unreal)
 
+Member of 
+- [GDR IASIS](https://gdr-iasis.cnrs.fr/)
+- [GDR IG-RV](https://gdr-igrv.fr/)
+- [GTMG](http://gtmg.u-bourgogne.fr/)
+
 ## PhD supervision
 
 | ----------- | ----------- |
