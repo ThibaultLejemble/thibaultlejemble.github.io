@@ -1,3 +1,7 @@
+- title: "PL-PRS-BVA-KISSAT in SAT Competition 2024"
+  authors: "M Saoudi, S Baarir, J Sopena, T Lejemble"
+  conf: "Pragmatic of SAT"
+  year: 2024
 - title: "PCEDNet: A lightweight neural network for fast and interactive edge detection in 3D point clouds"
   authors: "CE Himeur, T Lejemble, T Pellegrini, M Paulin, L Barthe, N Mellado"
   journal: "ACM Transactions on Graphics"
