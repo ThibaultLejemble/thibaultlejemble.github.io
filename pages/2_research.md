@@ -6,6 +6,10 @@ permalink: /research/
 
 ## 3D Point Cloud Processing
 
+<div style="text-align: justify">
+A point cloud is a 3D data representation obtained through numerical acquisition. Depth sensors, such as LiDAR, or computer vision algorithms, like Multi-View Stereo, typically generate a discrete set of 3D coordinates that sample a real-world scene. Processing point clouds poses several challenges, including acquisition noise, missing data due to occlusions, large data volumes often reaching billions of points equivalent to hundreds of gigabytes, and the lack of a regular structure. Common processing techniques include denoising, registration, meshing, compression, segmentation, and classification. Many fields, such as robotics, aerospace, virtual/augmented reality, cultural heritage, Computer-Aided Design (CAD), and urban planning, now extensively use 3D scanning technologies and point clouds.
+</div>
+
 ### Curvature estimation
 
 <div style="text-align: justify">
