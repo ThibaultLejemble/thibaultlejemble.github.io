@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1046.5712"
+   height="500.80341"
+   version="1.1"
+   id="svg116"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs120" />
+  <g
+     id="g4"
+     transform="translate(-34.112408,-17.04781)"
+     style="opacity:1">
+    <rect
+       x="34.112408"
+       y="17.04781"
+       width="1046.5712"
+       height="500.80341"
+       fill="#ffffff"
+       id="rect2"
+       style="stroke-width:1" />
+  </g>
+  <g
+     id="g20"
+     transform="translate(-34.112408,-17.04781)"
+     style="display:inline">
+    <text
+       font-family="'Open Sans'"
+       font-weight="600"
+       font-size="60px"
+       fill="#4285f4"
+       x="284.53564"
+       y="336.40094"
+       id="text6">Computer vision</text>
+    <text
+       font-family="'Open Sans'"
+       font-weight="600"
+       font-size="60px"
+       fill="#4285f4"
+       x="156.05147"
+       y="240.53944"
+       id="text8">3D</text>
+    <text
+       font-family="'Open Sans'"
+       font-weight="600"
+       font-size="60px"
+       fill="#4285f4"
+       x="376.00339"
+       y="233.33411"
+       id="text10">Machine Learning</text>
+    <text
+       font-family="'Open Sans'"
+       font-weight="600"
+       font-size="60px"
+       fill="#4285f4"
+       x="253.75928"
+       y="113.96182"
+       id="text12">Image processing</text>
+    <text
+       font-family="'Open Sans'"
+       font-weight="600"
+       font-size="60px"
+       fill="#4285f4"
+       x="705.65656"
+       y="433.20261"
+       id="text14">CUDA</text>
+    <text
+       font-family="'Open Sans'"
+       font-weight="600"
+       font-size="60px"
+       fill="#4285f4"
+       x="445.51257"
+       y="457.0882"
+       id="text16">C++17</text>
+    <text
+       font-family="'Open Sans'"
+       font-weight="600"
+       font-size="60px"
+       fill="#4285f4"
+       x="200.12149"
+       y="411.94513"
+       id="text18">Python</text>
+  </g>
+  <g
+     id="g46"
+     style="display:inline"
+     transform="translate(-34.112408,-17.04781)">
+    <text
+       font-family="'Open Sans'"
+       font-weight="600"
+       font-size="40px"
+       fill="#ea4335"
+       x="59.127686"
+       y="353.77359"
+       id="text22">Point cloud</text>
+    <text
+       font-family="'Open Sans'"
+       font-weight="600"
+       font-size="40px"
+       fill="#ea4335"
+       x="765.16034"
+       y="184.99187"
+       id="text24">PyTorch</text>
+    <text
+       font-family="'Open Sans'"
+       font-weight="600"
+       font-size="40px"
+       fill="#ea4335"
+       x="826.84747"
+       y="329.44046"
+       id="text26">Numpy</text>
+    <text
+       font-family="'Open Sans'"
+       font-weight="600"
+       font-size="40px"
+       fill="#ea4335"
+       x="87.318024"
+       y="279.89111"
+       id="text28">scikit-learn</text>
+    <text
+       font-family="'Open Sans'"
+       font-weight="600"
+       font-size="40px"
+       fill="#ea4335"
+       x="430.06564"
+       y="375.02161"
+       id="text30">Pattern recognition</text>
+    <text
+       font-family="'Open Sans'"
+       font-weight="600"
+       font-size="40px"
+       fill="#ea4335"
+       x="389.59058"
+       y="170.43004"
+       id="text32">Object detection</text>
+    <text
+       font-family="'Open Sans'"
+       font-weight="600"
+       font-size="40px"
+       fill="#ea4335"
+       x="328.64203"
+       y="270.44666"
+       id="text34">Segmentation</text>
+    <text
+       font-family="'Open Sans'"
+       font-weight="600"
+       font-size="40px"
+       fill="#ea4335"
+       x="409.92261"
+       y="63.501152"
+       id="text36">Classification</text>
+    <text
+       font-family="'Open Sans'"
+       font-weight="600"
+       font-size="40px"
+       fill="#ea4335"
+       x="469.71771"
+       y="498.41937"
+       id="text38">Mesh</text>
+    <text
+       font-family="'Open Sans'"
+       font-weight="600"
+       font-size="40px"
+       fill="#ea4335"
+       x="762.72125"
+       y="128.47574"
+       id="text40">Voxels</text>
+    <text
+       font-family="'Open Sans'"
+       font-weight="600"
+       font-size="40px"
+       fill="#ea4335"
+       x="81.225586"
+       y="180.66565"
+       id="text42">Deep Learning</text>
+    <text
+       font-family="'Open Sans'"
+       font-weight="600"
+       font-size="40px"
+       fill="#ea4335"
+       x="683.03076"
+       y="281.03885"
+       id="text44">Computer graphics</text>
+  </g>
+  <g
+     id="g72"
+     style="display:inline"
+     transform="translate(-34.112408,-17.04781)">
+    <text
+       font-family="'Open Sans'"
+       font-weight="600"
+       font-size="30px"
+       fill="#fbbc05"
+       x="903.81891"
+       y="249.82942"
+       id="text48">C</text>
+    <text
+       font-family="'Open Sans'"
+       font-weight="600"
+       font-size="30px"
+       fill="#fbbc05"
+       x="609.90088"
+       y="278.69434"
+       id="text50">GPU</text>
+    <text
+       font-family="'Open Sans'"
+       font-weight="600"
+       font-size="30px"
+       fill="#fbbc05"
+       x="254.74231"
+       y="248.53452"
+       id="text52">Lidar</text>
+    <text
+       font-family="'Open Sans'"
+       font-weight="600"
+       font-size="30px"
+       fill="#fbbc05"
+       x="690.00647"
+       y="67.54406"
+       id="text54">ROS</text>
+    <text
+       font-family="'Open Sans'"
+       font-weight="600"
+       font-size="30px"
+       fill="#fbbc05"
+       x="814.73303"
+       y="369.91"
+       id="text56">CMake</text>
+    <text
+       font-family="'Open Sans'"
+       font-weight="600"
+       font-size="30px"
+       fill="#fbbc05"
+       x="716.71802"
+       y="161.73363"
+       id="text58">Git</text>
+    <text
+       font-family="'Open Sans'"
+       font-weight="600"
+       font-size="30px"
+       fill="#fbbc05"
+       x="890.7691"
+       y="151.97501"
+       id="text60">Docker</text>
+    <text
+       font-family="'Open Sans'"
+       font-weight="600"
+       font-size="30px"
+       fill="#fbbc05"
+       x="371.72824"
+       y="67.802811"
+       id="text62">AI</text>
+    <text
+       font-family="'Open Sans'"
+       font-weight="600"
+       font-size="30px"
+       fill="#fbbc05"
+       x="613.2298"
+       y="470.7576"
+       id="text64">Matrix</text>
+    <text
+       font-family="'Open Sans'"
+       font-weight="600"
+       font-size="30px"
+       fill="#fbbc05"
+       x="303.86252"
+       y="367.28101"
+       id="text66">Tensor</text>
+    <text
+       font-family="'Open Sans'"
+       font-weight="600"
+       font-size="30px"
+       fill="#fbbc05"
+       x="133.64668"
+       y="139.26729"
+       id="text68">3D Scan</text>
+    <text
+       font-family="'Open Sans'"
+       font-weight="600"
+       font-size="30px"
+       fill="#fbbc05"
+       x="181.90915"
+       y="445.75455"
+       id="text70">Photogrammetry</text>
+  </g>
+  <g
+     id="g114"
+     style="display:inline"
+     transform="translate(-34.112408,-17.04781)">
+    <text
+       font-family="'Open Sans'"
+       font-weight="600"
+       font-size="20px"
+       fill="#34a853"
+       x="61.621468"
+       y="311.25293"
+       id="text74">Differential geometry</text>
+    <text
+       font-family="'Open Sans'"
+       font-weight="600"
+       font-size="20px"
+       fill="#34a853"
+       x="586.64642"
+       y="498.27115"
+       id="text76">Optimization</text>
+    <text
+       font-family="'Open Sans'"
+       font-weight="600"
+       font-size="20px"
+       fill="#34a853"
+       x="717.8894"
+       y="458.57578"
+       id="text78">Topologycal Data Analysis</text>
+    <text
+       font-family="'Open Sans'"
+       font-weight="600"
+       font-size="20px"
+       fill="#34a853"
+       x="312.91531"
+       y="476.2023"
+       id="text80">Linear algebra</text>
+    <text
+       font-family="'Open Sans'"
+       font-weight="600"
+       font-size="20px"
+       fill="#34a853"
+       x="766.24084"
+       y="328.25784"
+       id="text82">CGAL</text>
+    <text
+       font-family="'Open Sans'"
+       font-weight="600"
+       font-size="20px"
+       fill="#34a853"
+       x="627.8941"
+       y="434.03607"
+       id="text84">Sympy</text>
+    <text
+       font-family="'Open Sans'"
+       font-weight="600"
+       font-size="20px"
+       fill="#34a853"
+       x="301.14005"
+       y="69.909386"
+       id="text86">Eigen</text>
+    <text
+       font-family="'Open Sans'"
+       font-weight="600"
+       font-size="20px"
+       fill="#34a853"
+       x="770.29639"
+       y="92.901131"
+       id="text88">Matlab</text>
+    <text
+       font-family="'Open Sans'"
+       font-weight="600"
+       font-size="20px"
+       fill="#34a853"
+       x="412.30478"
+       y="404.94202"
+       id="text90">x86</text>
+    <text
+       font-family="'Open Sans'"
+       font-weight="600"
+       font-size="20px"
+       fill="#34a853"
+       x="419.09238"
+       y="293.60056"
+       id="text92">Perception</text>
+    <text
+       font-family="'Open Sans'"
+       font-weight="600"
+       font-size="20px"
+       fill="#34a853"
+       x="564.26605"
+       y="191.94269"
+       id="text94">Robotic</text>
+    <text
+       font-family="'Open Sans'"
+       font-weight="600"
+       font-size="20px"
+       fill="#34a853"
+       x="237.56509"
+       y="213.13942"
+       id="text96">Virtual reality</text>
+    <text
+       font-family="'Open Sans'"
+       font-weight="600"
+       font-size="20px"
+       fill="#34a853"
+       x="262.70157"
+       y="145.42705"
+       id="text98">OpenGL</text>
+    <text
+       font-family="'Open Sans'"
+       font-weight="600"
+       font-size="20px"
+       fill="#34a853"
+       x="705.06195"
+       y="191.77213"
+       id="text100">GLSL</text>
+    <text
+       font-family="'Open Sans'"
+       font-weight="600"
+       font-size="20px"
+       fill="#34a853"
+       x="108.80537"
+       y="211.99406"
+       id="text102">SAT</text>
+    <text
+       font-family="'Open Sans'"
+       font-weight="600"
+       font-size="20px"
+       fill="#34a853"
+       x="484.20801"
+       y="401.17755"
+       id="text104">Metaprogramming</text>
+    <text
+       font-family="'Open Sans'"
+       font-weight="600"
+       font-size="20px"
+       fill="#34a853"
+       x="85.913681"
+       y="386.21851"
+       id="text106">TensorFlow</text>
+    <text
+       font-family="'Open Sans'"
+       font-weight="600"
+       font-size="20px"
+       fill="#34a853"
+       x="904.36005"
+       y="215.62984"
+       id="text108">Simulation</text>
+    <text
+       font-family="'Open Sans'"
+       font-weight="600"
+       font-size="20px"
+       fill="#34a853"
+       x="806.18384"
+       y="149.29041"
+       id="text110">Graph</text>
+    <text
+       font-family="'Open Sans'"
+       font-weight="600"
+       font-size="20px"
+       fill="#34a853"
+       x="480.09778"
+       y="137.29434"
+       id="text112">Clustering</text>
+  </g>
+</svg>
