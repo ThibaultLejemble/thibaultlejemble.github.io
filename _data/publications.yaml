@@ -49,6 +49,7 @@
   authors: "T Lejemble, C Mura, L Barthe, N Mellado"
   conf: "Journées Françaises d'Informatique Graphique"
   year: 2018
+  pdf: lejemble2018multi.pdf
 - title: "Interactive procedural simulation of paper tearing with sound"
   authors: "T Lejemble, A Fondevilla, N Durin, T Blanc-Beyne, C Schreck, ..."
   conf: "ACM SIGGRAPH Conference on Motion in Games (MIG)"
