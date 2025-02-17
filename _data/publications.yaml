@@ -34,14 +34,17 @@
   authors: "J Shao, W Zhang, N Mellado, N Wang, S Jin, S Cai, L Luo, T Lejemble, ..."
   journal: "ISPRS Journal of Photogrammetry and Remote Sensing"
   year: 2020
+  pdf: shao2020slam.pdf
 - title: "SHREC'19 track: Feature Curve Extraction on Triangle Meshes"
   authors: "EM Thompson, G Arvanitis, K Moustakas, N Hoang-Xuan, ER Nguyen, ..."
   workshop: "Eurographics Workshop 3D Object Retrieval (3DOR)"
   year: 2019
+  pdf: thompson2019shrec.pdf
 - title: "SHREC'18 track: Recognition of geometric patterns over 3D models"
   authors: "S Biasotti, EM Thompson, L Barthe, S Berretti, A Giachetti, T Lejemble, ..."
   workshop: "Eurographics Workshop 3D Object Retrieval (3DOR)"
   year: 2018
+  pdf: biasotti2018shrec.pdf
 - title: "Multi-scale planar segments extraction from point clouds"
   authors: "T Lejemble, C Mura, L Barthe, N Mellado"
   conf: "Journées Françaises d'Informatique Graphique"
@@ -50,3 +53,4 @@
   authors: "T Lejemble, A Fondevilla, N Durin, T Blanc-Beyne, C Schreck, ..."
   conf: "ACM SIGGRAPH Conference on Motion in Games (MIG)"
   year: 2015
+  pdf: lejemble2015interactive.pdf
