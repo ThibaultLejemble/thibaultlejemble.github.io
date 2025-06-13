@@ -10,6 +10,7 @@ layout: default
 ## News
 
 ----------|----------
+May&nbsp;2025 | '__D-Painless: A Framework for Distributed Portfolio SAT Solving__' is presented by Mazigh Saoudi in [TACAS2025](https://etaps.org/2025/conferences/tacas/)
 Aug&nbsp;2024 | Mazigh Saoudi comes in __1st place__ in the Parallel Track, and __3rd place__ in the Cloud Track, of [SAT Competition 2024](https://satcompetition.github.io/2024)
 Aug&nbsp;2024 | '__PL-PRS-BVA-KISSAT in SAT Competition 2024__' is presented by Mazigh Saoudi in [POS2024](http://www.pragmaticsofssat.org/2024)
 Feb&nbsp;2024 | I give a presentation on __3D point cloud processing__ during a seminar in the [REVA team](https://www.irit.fr/en/departement/dep-hpc-simulation-optimization/reva-team/)

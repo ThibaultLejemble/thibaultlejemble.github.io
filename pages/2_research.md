@@ -51,3 +51,5 @@ Another type of hardware that has not yet been widely utilized in this domain is
 The challenge is to design a new kind of solver that leverages the computational power of GPUs to accelerate SAT problem solving.
 </div>
 
+- [D-Painless: A Framework for Distributed Portfolio SAT Solving](/articles/saoudi2025d.pdf), Saoudi et al., 2025
+- [PL-PRS-BVA-KISSAT in SAT Competition 2024](/articles/saoudi2024pl.pdf), Saoudi et al., 2024

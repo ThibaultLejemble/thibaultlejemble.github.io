@@ -1,3 +1,8 @@
+- title: "D-Painless: A Framework for Distributed Portfolio SAT Solving"
+  authors: "M Saoudi, S Baarir, J Sopena, T Lejemble"
+  conf: "International Conference on Tools and Algorithms for the Construction and Analysis of Systems"
+  year: 2025
+  pdf: saoudi2025d.pdf
 - title: "PL-PRS-BVA-KISSAT in SAT Competition 2024"
   authors: "M Saoudi, S Baarir, J Sopena, T Lejemble"
   conf: "Pragmatic of SAT"
