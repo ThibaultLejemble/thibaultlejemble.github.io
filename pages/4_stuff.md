@@ -6,8 +6,8 @@ permalink: /stuff/
 
 <style type="text/css">
 .stuff-grid {
-  margin-left: -100px;
-  margin-right: -100px;
+  /* margin-left: -100px; */
+  /* margin-right: -300px; */
   display: grid;
   /* grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); */
   grid-template-columns: repeat(auto-fill, 200px);
@@ -23,7 +23,7 @@ permalink: /stuff/
   padding: 0;
   text-decoration: none;
   transition: box-shadow 0.3s ease;
-  transition: transform 0.3s ease;
+  /* transition: transform 0.3s ease; */
   height: 200px;
   width: 200px;
   position: relative;
@@ -35,7 +35,7 @@ permalink: /stuff/
 
 .stuff-box:hover {
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-  transform: translateY(-2px);
+  /* transform: translateY(-2px); */
   text-decoration: none;
 }
 
@@ -90,15 +90,34 @@ permalink: /stuff/
   border-radius: 4px;
   font-size: 0.75rem;
 }
+
+.checkboxes {
+  margin-bottom: 1rem;
+}
+
+.checkboxes label {
+  margin-right: 1rem;
+}
+
 </style>
+
+
+<div class=checkboxes>
+{% for tag in site.tags %}
+    <label>
+      <input type="checkbox" class="tag-checkbox" value="{{ tag[0] }}">
+      {{ tag[0] }}
+    </label>
+{% endfor %}
+</div>
 
 
 <div class="stuff-grid">
   {% for post in site.posts %}
     {% if post.link %}
-        <a href="{{ post.link }}" class="stuff-box" style="background-image: url({{ post.image }});" target="_blank">
+        <a href="{{ post.link }}" class="stuff-box" style="background-image: url({{ post.image }});" data-tags="{{ post.tags | join: ',' }}" target="_blank">
     {% else %}
-        <a href="{{ post.url }}" class="stuff-box" style="background-image: url({{ post.image }});">
+        <a href="{{ post.url }}" class="stuff-box" style="background-image: url({{ post.image }});" data-tags="{{ post.tags | join: ',' }}">
     {% endif %}
       <div class="stuff-content">
         <div class="stuff-topcontent">
@@ -120,3 +139,29 @@ permalink: /stuff/
     </a>
   {% endfor %}
 </div>
+
+
+
+<script>
+  const checkboxes = document.querySelectorAll('.tag-checkbox');
+  const posts = document.querySelectorAll('.stuff-box');
+
+  function filterPosts() {
+    const selectedTags = Array.from(checkboxes)
+      .filter(cb => cb.checked)
+      .map(cb => cb.value);
+
+    posts.forEach(post => {
+      const postCats = post.dataset.tags.split(',');
+      // show post if it has at least one selected tag or if none selected show all
+      if (selectedTags.length === 0 || selectedTags.some(cat => postCats.includes(cat))) {
+        post.style.display = '';
+      } else {
+        post.style.display = 'none';
+      }
+    });
+  }
+
+  checkboxes.forEach(cb => cb.addEventListener('change', filterPosts));
+  filterPosts();
+</script>
