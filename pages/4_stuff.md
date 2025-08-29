@@ -74,6 +74,11 @@ permalink: /stuff/
 .stuff-box:hover h2 {
   text-decoration: underline;
 }
+/* 
+.stuff-box:hover h2::after {
+  content: " ↗";
+} 
+ */
 
 .stuff-tags {
   position: absolute;
@@ -102,6 +107,7 @@ permalink: /stuff/
 </style>
 
 
+<!-- 
 <div class=checkboxes>
 {% for tag in site.tags %}
     <label>
@@ -109,7 +115,8 @@ permalink: /stuff/
       {{ tag[0] }}
     </label>
 {% endfor %}
-</div>
+</div> 
+-->
 
 
 <div class="stuff-grid">
