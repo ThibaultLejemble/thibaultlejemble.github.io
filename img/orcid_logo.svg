@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="90"
+   height="90"
+   viewBox="0 0 90 90"
+   version="1.1"
+   id="svg15"
+   sodipodi:docname="orcid_logo.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs19" />
+  <sodipodi:namedview
+     id="namedview17"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="6.0277778"
+     inkscape:cx="36"
+     inkscape:cy="51.345622"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="1920"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg15" />
+  <!-- Generator: sketchtool 53.1 (72631) - https://sketchapp.com -->
+  <title
+     id="title2">Orcid logo</title>
+  <g
+     id="Symbols"
+     stroke="none"
+     stroke-width="1"
+     fill="none"
+     fill-rule="evenodd"
+     transform="translate(9,9)">
+    <g
+       id="hero"
+       transform="translate(-924,-72)"
+       fill-rule="nonzero">
+      <g
+         id="Group-4">
+        <g
+           id="vector_iD_icon"
+           transform="translate(924,72)">
+          <path
+             d="M 72,36 C 72,55.884375 55.884375,72 36,72 16.115625,72 0,55.884375 0,36 0,16.115625 16.115625,0 36,0 55.884375,0 72,16.115625 72,36 Z"
+             id="Path"
+             fill="#a6ce39" />
+          <g
+             id="Group"
+             transform="translate(18.868966,12.910345)"
+             fill="#ffffff">
+            <polygon
+               id="polygon5"
+               points="5.0373493,22.69305 5.0373493,39.125088 0.69542986,39.125088 0.69542986,9.1443179 5.0373493,9.1443179 " />
+            <path
+               d="m 11.409257,9.1443179 h 11.728821 c 11.164936,0 16.070741,7.9220891 16.070741,15.0043811 0,7.698144 -6.061771,15.004382 -16.014352,15.004382 h -11.78521 z m 4.34192,26.1177011 h 6.907599 c 9.839804,0 12.095347,-7.418211 12.095347,-11.11332 0,-6.018548 -3.862617,-11.11332 -12.320902,-11.11332 h -6.682044 z"
+               id="Shape" />
+            <path
+               d="m 5.7140121,2.9018233 c 0,1.5396287 -1.2687427,2.8273182 -2.8476225,2.8273182 -1.5788798,0 -2.84762251,-1.2876895 -2.84762251,-2.8273182 0,-1.567622 1.26874271,-2.82731819 2.84762251,-2.82731819 1.5788798,0 2.8476225,1.28768949 2.8476225,2.82731819 z"
+               id="path8" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <metadata
+     id="metadata295">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Orcid logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
