@@ -1,6 +1,7 @@
 - title: "Survey on differential estimators for 3d point clouds"
   authors: "L Arnal--Anger, T Lejemble, D Coeurjolly, L Barthe, N Mellado"
   journal: "Computer Graphics Forum"
+  conf: "Eurographics"
   year: 2026
   pdf: arnal2026survey.pdf
   website: https://storm-irit.github.io/pcloud-differential-estimation-benchmark-website/
