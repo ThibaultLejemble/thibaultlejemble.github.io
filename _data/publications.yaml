@@ -1,3 +1,10 @@
+- title: "Survey on differential estimators for 3d point clouds"
+  authors: "L Arnal--Anger, T Lejemble, D Coeurjolly, L Barthe, N Mellado"
+  journal: "Computer Graphics Forum"
+  year: 2026
+  pdf: arnal2026survey.pdf
+  website: https://storm-irit.github.io/pcloud-differential-estimation-benchmark-website/
+  github: https://github.com/STORM-IRIT/pcloud-differential-estimation-benchmark
 - title: "D-Painless: A Framework for Distributed Portfolio SAT Solving"
   authors: "M Saoudi, S Baarir, J Sopena, T Lejemble"
   conf: "International Conference on Tools and Algorithms for the Construction and Analysis of Systems"
