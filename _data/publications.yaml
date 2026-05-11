@@ -35,7 +35,7 @@
   authors: "T Lejemble"
   journal: "PhD Thesis"
   year: 2020
-  pdf: lejemble2021thesis.pdf
+  pdf: lejemble2020analyse.pdf
 - title: "Persistence Analysis of Multi-scale Planar Structure Graph in Point Clouds"
   authors: "T Lejemble, C Mura, L Barthe, N Mellado"
   journal: "Computer Graphics Forum"
@@ -52,12 +52,12 @@
   authors: "EM Thompson, G Arvanitis, K Moustakas, N Hoang-Xuan, ER Nguyen, ..."
   workshop: "Eurographics Workshop 3D Object Retrieval (3DOR)"
   year: 2019
-  pdf: thompson2019shrec.pdf
+  pdf: thompson2019feature.pdf
 - title: "SHREC'18 track: Recognition of geometric patterns over 3D models"
   authors: "S Biasotti, EM Thompson, L Barthe, S Berretti, A Giachetti, T Lejemble, ..."
   workshop: "Eurographics Workshop 3D Object Retrieval (3DOR)"
   year: 2018
-  pdf: biasotti2018shrec.pdf
+  pdf: biasotti2018recognition.pdf
 - title: "Multi-scale planar segments extraction from point clouds"
   authors: "T Lejemble, C Mura, L Barthe, N Mellado"
   conf: "Journées Françaises d'Informatique Graphique"
